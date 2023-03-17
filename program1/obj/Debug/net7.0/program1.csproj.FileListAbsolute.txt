@@ -1,0 +1,15 @@
+D:\YandexDisk\GB\final_work_ep1\program1\bin\Debug\net7.0\program1.exe
+D:\YandexDisk\GB\final_work_ep1\program1\bin\Debug\net7.0\program1.deps.json
+D:\YandexDisk\GB\final_work_ep1\program1\bin\Debug\net7.0\program1.runtimeconfig.json
+D:\YandexDisk\GB\final_work_ep1\program1\bin\Debug\net7.0\program1.dll
+D:\YandexDisk\GB\final_work_ep1\program1\bin\Debug\net7.0\program1.pdb
+D:\YandexDisk\GB\final_work_ep1\program1\obj\Debug\net7.0\program1.csproj.AssemblyReference.cache
+D:\YandexDisk\GB\final_work_ep1\program1\obj\Debug\net7.0\program1.GeneratedMSBuildEditorConfig.editorconfig
+D:\YandexDisk\GB\final_work_ep1\program1\obj\Debug\net7.0\program1.AssemblyInfoInputs.cache
+D:\YandexDisk\GB\final_work_ep1\program1\obj\Debug\net7.0\program1.AssemblyInfo.cs
+D:\YandexDisk\GB\final_work_ep1\program1\obj\Debug\net7.0\program1.csproj.CoreCompileInputs.cache
+D:\YandexDisk\GB\final_work_ep1\program1\obj\Debug\net7.0\program1.dll
+D:\YandexDisk\GB\final_work_ep1\program1\obj\Debug\net7.0\refint\program1.dll
+D:\YandexDisk\GB\final_work_ep1\program1\obj\Debug\net7.0\program1.pdb
+D:\YandexDisk\GB\final_work_ep1\program1\obj\Debug\net7.0\program1.genruntimeconfig.cache
+D:\YandexDisk\GB\final_work_ep1\program1\obj\Debug\net7.0\ref\program1.dll
